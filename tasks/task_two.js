@@ -8,7 +8,7 @@ const difference = num1 - num2;
 console.log("Difference:", difference); 
 
 const sales = num1 * num2;
-console.log("Sales:", product);
+console.log("Sales:", sales);
 
 const quotient = num1 / num2;
 console.log("Quotient:", quotient); 

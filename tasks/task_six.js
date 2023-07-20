@@ -1,4 +1,4 @@
-let number = '35'
+let num = '35'
 
 console.log(number)
 console.log(typeof (number))

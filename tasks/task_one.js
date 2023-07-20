@@ -1,7 +1,7 @@
-const name = 'Chidubem';
+const person = 'Chidubem';
 
-console.log(name)
-console.log('My name is ' + name)
+console.log(person)
+console.log('My name is ' + person)
 
 let uppercaseMessage = message.toUpperCase();
 console.log(uppercaseMessage);

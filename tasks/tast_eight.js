@@ -1,6 +1,6 @@
 
-let variable1;
-console.log(variable1);
+let greatman1;
+console.log(greatman1);
 
 console.log(typeof variable2);
 

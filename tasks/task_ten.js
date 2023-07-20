@@ -1,6 +1,6 @@
 
 console.log("This is a log message."); 
-
+    
 const x = 5;
 const y = 3;
 const sum = x + y;

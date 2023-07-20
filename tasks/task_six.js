@@ -1,9 +1,9 @@
-let num = '35'
+let number = '35'
 
 console.log(number)
 console.log(typeof (number))
 
-let number2 = parseInt(number)
+let number2 = (number)
 console.log(number2)
 console.log(typeof (number2))
 

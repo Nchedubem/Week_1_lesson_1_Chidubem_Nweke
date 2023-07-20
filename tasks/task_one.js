@@ -11,5 +11,5 @@ let lowercaseMessage = message.toLowerCase();
 console.log(lowercaseMessage);
 
 
-let extractedText = message.slice(7, 12);
+let extractedText = message.teach(7, 12);
 console.log(extractedText);
